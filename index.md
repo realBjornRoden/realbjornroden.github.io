@@ -1,6 +1,17 @@
 ## Topics
 
-{% gist 293a412e1914cf5f95ab0c468b97223d cloudactions-azure-login.md %}
+.gistcontainer {
+  max-height: 300px;
+  overflow: auto;
+}
+
+.gistcontainer:target .show {display:none;}
+.gistcontainer:target {max-height:none;}
+
+<div class="gistcontainer" id="gist1">
+  <a href="#gist1" class="show">More...</a>
+  <script src="https://gist.github.com/benanne/3274371.js"></script>
+</div>
 
 * Login access with SSH
    * [Azure](https://github.com/realBjornRoden/cloudactions/blob/master/azure/login/README.md)
