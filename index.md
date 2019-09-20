@@ -1,8 +1,6 @@
 ## Topics
 
-<style type="text/css">
 <style type="text/css"> .gist {width:500px; overflow:auto}  .gist .file-data {max-height: 500px;max-width: 500px;} </style>
-</style>
 
 <div class="gistcontainer" id="gist">
 <a href="#gist" class="show">More...</a>
