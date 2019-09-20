@@ -1,11 +1,6 @@
 ## Topics
 
-<style type="text/css"> .gist {width:500px; overflow:auto}  .gist .file-data {max-height: 500px;max-width: 500px;} </style>
-
-<div class="gistcontainer" id="gist">
-<a href="#gist" class="show">More...</a>
-<script src="https://gist.github.com/realBjornRoden/293a412e1914cf5f95ab0c468b97223d.js"></script>
-</div>
+[GIST](https://gist.github.com/realBjornRoden/293a412e1914cf5f95ab0c468b97223d#file-cloudactions-aws-login)
 
 * Login access with SSH
    * [Azure](https://github.com/realBjornRoden/cloudactions/blob/master/azure/login/README.md)
