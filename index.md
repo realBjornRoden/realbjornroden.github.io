@@ -1,12 +1,13 @@
 ## Topics
 
-.gistcontainer {
-  max-height: 300px;
-  overflow: auto;
-}
-
+style type="text/css">
+.gist {width:500px !important;}
+.gist-file
+.gist-data {max-height: 500px;max-width: 500px;}
+.gistcontainer {   max-height: 300px;   overflow: auto; }
 .gistcontainer:target .show {display:none;}
 .gistcontainer:target {max-height:none;}
+</style>
 
 <div class="gistcontainer" id="gist1">
   <a href="#gist1" class="show">More...</a>
