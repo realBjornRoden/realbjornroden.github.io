@@ -1,17 +1,12 @@
 ## Topics
 
-style type="text/css">
-.gist {width:500px !important;}
-.gist-file
-.gist-data {max-height: 500px;max-width: 500px;}
-.gistcontainer {   max-height: 300px;   overflow: auto; }
-.gistcontainer:target .show {display:none;}
-.gistcontainer:target {max-height:none;}
+<style type="text/css">
+<style type="text/css"> .gist {width:500px; overflow:auto}  .gist .file-data {max-height: 500px;max-width: 500px;} </style>
 </style>
 
-<div class="gistcontainer" id="gist1">
-  <a href="#gist1" class="show">More...</a>
-  <script src="https://gist.github.com/benanne/3274371.js"></script>
+<div class="gistcontainer" id="gist">
+<a href="#gist" class="show">More...</a>
+<script src="https://gist.github.com/realBjornRoden/293a412e1914cf5f95ab0c468b97223d.js"></script>
 </div>
 
 * Login access with SSH
