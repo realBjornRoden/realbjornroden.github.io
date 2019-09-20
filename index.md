@@ -1,4 +1,4 @@
-# Lift & Shift Cloud Actions with global providers
+# Cloud Actions
 
 ## Topics
 
