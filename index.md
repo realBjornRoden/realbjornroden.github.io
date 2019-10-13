@@ -1,11 +1,11 @@
 # Projects
 
-* [Cloud Infrastructure (IaaS) Actions Projects](https://roden-cloud.github.io)
+* [Cloud Infrastructure (IaaS) Action Projects](https://roden-cloud.github.io)
 
 * [Artificial Intelligence (AI) Action Projects](https://roden-ai.github.io)
 
-* [Data Science Projects](https://roden-data.github.io)
+* [Data Science Action Projects](https://roden-data.github.io)
 
-* [Mobile & Internet of Things](https://roden-mobile.github.io)
+* [Mobile & Internet of Things Action Projects](https://roden-mobile.github.io)
 
-* [Unix-based Projects](https://roden-unix.github.io)
+* [Unix-based Action Projects](https://roden-unix.github.io)
