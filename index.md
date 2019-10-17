@@ -12,4 +12,4 @@
 
 ### Also on
 *  [LinkedIn](https://www.linkedin.com/in/roden/)
-*  [Issuu](https://www.linkedin.com/in/roden/)
+*  [Issuu](https://issuu.com/realbjornroden/)
