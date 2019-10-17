@@ -10,6 +10,6 @@
 
 * [Unix-based Action Projects](https://roden-unix.github.io)
 
-# LinkedIn
-*  [on LinkedIn](https://www.linkedin.com/in/roden/)
-*  [on Issuu](https://www.linkedin.com/in/roden/)
+# Also on
+*  [LinkedIn](https://www.linkedin.com/in/roden/)
+*  [Issuu](https://www.linkedin.com/in/roden/)
