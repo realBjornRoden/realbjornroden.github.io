@@ -1,4 +1,4 @@
-# Projects [on linkedin](https://www.linkedin.com/in/roden/)
+# Projects
 
 * [Cloud Infrastructure (IaaS) Action Projects](https://roden-cloud.github.io)
 
@@ -9,3 +9,6 @@
 * [Mobile & Internet of Things Action Projects](https://roden-mobile.github.io)
 
 * [Unix-based Action Projects](https://roden-unix.github.io)
+
+# LinkedIn
+*  [roden](https://www.linkedin.com/in/roden/)
