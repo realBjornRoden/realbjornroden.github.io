@@ -1,4 +1,4 @@
-# Projects
+# Projects [on linkedin](https://www.linkedin.com/in/roden/)
 
 * [Cloud Infrastructure (IaaS) Action Projects](https://roden-cloud.github.io)
 
